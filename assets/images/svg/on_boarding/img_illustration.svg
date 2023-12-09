@@ -1,0 +1,35 @@
+<svg width="360" height="453" viewBox="0 0 360 453" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_898_6775)">
+        <circle cx="180" cy="152" r="301" fill="url(#paint0_linear_898_6775)" fill-opacity="0.1" />
+        <circle cx="188" cy="125" r="301" fill="url(#paint1_linear_898_6775)" fill-opacity="0.1" />
+        <circle opacity="0.1" cx="150" cy="250" r="18" fill="#1AA483" />
+        <circle opacity="0.1" cx="190" cy="180" r="18" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="319" cy="329.5" rx="11" ry="10.5" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="359" cy="259.5" rx="11" ry="10.5" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="249" cy="307.5" rx="13" ry="13.5" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="289" cy="237.5" rx="13" ry="13.5" fill="#1AA483" />
+        <circle opacity="0.1" cx="301" cy="170" r="18" fill="#1AA483" />
+        <circle opacity="0.1" cx="341" cy="100" r="18" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="174" cy="358.5" rx="10" ry="9.5" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="214" cy="288.5" rx="10" ry="9.5" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="37.5" cy="291" rx="7.5" ry="7" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="77.5" cy="221" rx="7.5" ry="7" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="37.5" cy="170" rx="7.5" ry="7" fill="#1AA483" />
+        <ellipse opacity="0.1" cx="77.5" cy="100" rx="7.5" ry="7" fill="#1AA483" />
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear_898_6775" x1="180" y1="-788.5" x2="180" y2="453"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#1AA483" stop-opacity="0" />
+            <stop offset="1" stop-color="#1AA483" />
+        </linearGradient>
+        <linearGradient id="paint1_linear_898_6775" x1="188" y1="-815.5" x2="188" y2="426"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#1AA483" stop-opacity="0" />
+            <stop offset="1" stop-color="#1AA483" />
+        </linearGradient>
+        <clipPath id="clip0_898_6775">
+            <rect width="360" height="453" fill="white" />
+        </clipPath>
+    </defs>
+</svg>
