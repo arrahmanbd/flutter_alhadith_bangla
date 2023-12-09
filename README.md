@@ -16,8 +16,8 @@ This repository contains the source code for the app.
 I have analyzed their database and also created a demo database for demonstration purposes and code sharing. Here is my report.
 If you are from IRF Foundation, please replace hadith.db with original database which located at "assest/database/" directory. Then build the app or check out relase version for the task. 
 Thank you.
+[![DatabaseReport](https://img.shields.io/badge/Pdf-1967d2?style=for-the-badge&logo=download&logoColor=white)](demo/db.pdf)
 
-[DatabaseSchema.pdf](demo/db.pdf)
 
 [![download apk](https://img.shields.io/badge/DownloadApk-1AA483?style=for-the-badge&logo=download&logoColor=white)](https://github.com/arrahmanbd/flutter_alhadith_bangla/releases/download/alpha/app-release.apk)
 
