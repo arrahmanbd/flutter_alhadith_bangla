@@ -14,7 +14,8 @@ This repository contains the source code for the app.
 
 ## Database Analysis
 I have analyzed their database and also created a demo database for demonstration purposes and code sharing. Here is my report.
-
+If you are from IRF Foundation, please replace hadith.db with original database which located at "assest/database/". Then buld the app.
+Thank you.
 
 [DatabaseSchema.pdf](demo/db.pdf)
 
