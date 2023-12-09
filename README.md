@@ -19,7 +19,7 @@ Thank you.
 
 [DatabaseSchema.pdf](demo/db.pdf)
 
-[![download](https://img.shields.io/badge/Download Apk-1AA483?style=for-the-badge&logo=download&logoColor=white)](https://github.com/arrahmanbd/flutter_alhadith_bangla/releases/download/alpha/app-release.apk)
+[![download apk](https://img.shields.io/badge/DownloadApk-1AA483?style=for-the-badge&logo=download&logoColor=white)](https://github.com/arrahmanbd/flutter_alhadith_bangla/releases/download/alpha/app-release.apk)
 
 ## Getting Started
 **Clone the Repository:**
