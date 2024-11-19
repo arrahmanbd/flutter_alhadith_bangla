@@ -14,7 +14,7 @@ This repository contains the source code for the app.
 
 ## Database Analysis
 I have analyzed their database and also created a demo database for demonstration purposes and code sharing. Here is my report.
-If you are from IRF Foundation, please replace hadith.db with original database which located at "assest/database/" directory. Then build the app or check out relase version for the task. 
+If you are from IRD Foundation, please replace hadith.db with original database which located at "assest/database/" directory. Then build the app or check out relase version for the task. 
 Thank you.
 
 [![DatabaseReport](https://img.shields.io/badge/DatabaseReport-1967d2?style=for-the-badge&logo=download&logoColor=white)](demo/db.pdf)
