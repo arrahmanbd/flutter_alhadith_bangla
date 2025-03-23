@@ -1,5 +1,9 @@
 ## Flutter Al Hadith App (Bangla)
+
+<img src="demo/alhadith.png" alt="App Screenshot" width="700"/>
+
 The Bangla Hadith App is a mobile application designed to provide a convenient platform for users to access and explore a collection of authentic Hadiths in the Bengali language.This app is a skill test by IRD Foundation.
+
 
 IRD Foundation is providing Islamic apps for the benefit of Mankind, expecting rewards from Allah Subhanawa ta'ala alone and following the Madhab & Manhaz of Salaf-e-Salehin.
 
